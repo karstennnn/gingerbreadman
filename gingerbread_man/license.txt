@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gingerbread Man
+* source:	https://sketchfab.com/3d-models/gingerbread-man-3063423a50e948c49e0bd53184eba305
+* author:	kennedy.adams (https://sketchfab.com/kennedy.adams)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gingerbread Man" (https://sketchfab.com/3d-models/gingerbread-man-3063423a50e948c49e0bd53184eba305) by kennedy.adams (https://sketchfab.com/kennedy.adams) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
